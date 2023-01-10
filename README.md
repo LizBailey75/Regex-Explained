@@ -67,4 +67,4 @@ Lookbehind is similar, except it looks at what is BEFORE what you're trying to m
 
 ## Author
 
-Elizabeth Bailey 
+Elizabeth Bailey https://github.com/LizBailey75/Regex-Explained
